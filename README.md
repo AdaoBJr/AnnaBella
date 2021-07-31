@@ -4,7 +4,7 @@
 <h2 align="center">GitHub Pages:</h2>
  
  <div align="center">
-   <a href="https://adaobjr.github.io/ChaleHotel/" target="_blank">
+   <a href="https://adaobjr.github.io/AnnaBella/" target="_blank">
     <img width='100px' src='https://github.com/AdaoBJr/Portfolio/blob/master/src/images/README/cliqueAqui.png' target="_blank" />
  </div>
  
